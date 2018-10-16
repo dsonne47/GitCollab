@@ -1,1 +1,3 @@
 Learning collaboration with GitHub in GitCollab
+
+Lets master git - commit, push, merge, pull, branch.....
