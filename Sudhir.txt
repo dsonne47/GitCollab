@@ -1,3 +1,4 @@
 Learning collaboration with GitHub in GitCollab
 
 Lets master git - commit, push, merge, pull, branch.....
+Along with all that above, we would need rebase as well for the commit
